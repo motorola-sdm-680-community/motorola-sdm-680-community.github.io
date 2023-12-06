@@ -2,15 +2,15 @@
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "/"
 # Title of your website (required).
-title = "Hugoplate"
+title = "SnapDragon 680 Community"
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "Asia/Kolkata"
 # post pagination
-paginate = 2 # see https://gohugo.io/extras/pagination/
+paginate = 10 # see https://gohugo.io/extras/pagination/
 # post excerpt
-summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
+summaryLength = 70 # see https://gohugo.io/content-management/excerpts/
 # google analytics
 googleAnalytics = "G-MEASUREMENT_ID" # see https://gohugo.io/templates/internal/#configure-google-analytics
 # disqus short name
