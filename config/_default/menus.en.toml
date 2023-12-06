@@ -22,8 +22,8 @@ name = "Resources"
 hasChildren = true
 
 [[main]]
-parent = "Pages"
-name = "Resources"
+parent = "Resources"
+name = "Guides"
 url = "guides/"
 
 [[main]]
