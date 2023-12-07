@@ -90,7 +90,7 @@ maxAge = "720h"
 unsafe = true
 
 [markup.highlight]
-style = 'autumn'
+style = 'onedark'
 
 [markup.tableOfContents]
 startLevel = 2
