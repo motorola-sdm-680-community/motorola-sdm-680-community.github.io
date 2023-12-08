@@ -18,13 +18,11 @@ draft: false
 
 Download (boot.img, vendor_boot.img & dtbo.img) from the links below for your devices
 
-{{<button label="Devon (Moto G32)" link="https://t.me/sdm680_moto/50929" style="hollow">}}
-
-{{<button label="Hawao (Moto G42)" link="https://t.me/motog52custom/20">}}
-
-{{<button label="Rhode (Moto G52)" link="https://t.me/g52com/38442/71520">}}
-
-<hr>
+<div class="inline-flex flex-col md:flex-row mx-auto gap-4">
+  {{<button label="Devon (Moto G32)" link="https://t.me/sdm680_moto/50929" style="outline">}}
+  {{<button label="Hawao (Moto G42)" link="https://t.me/motog52custom/20" style="outline">}}
+  {{<button label="Rhode (Moto G52)" link="https://t.me/g52com/38442/71520" style="outline">}}
+</div>
 
 ## Instructions
 
