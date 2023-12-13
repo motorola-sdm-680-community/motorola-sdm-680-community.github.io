@@ -5,8 +5,8 @@ description: 'Bootloader Relocking Guide for Motorola devices with Snapdragon 68
 data: '2023-12-13T23:07:19+05:30'
 image: "/images/image-placeholder.png"
 author: "Motorola Snapdragon 680 Community"
-categories: []
-tags: []
+categories: ["Bootloader", "Advanced Guide"]
+tags: ["ROMs", "Stock ROM"]
 draft: false
 type: blog
 ---
