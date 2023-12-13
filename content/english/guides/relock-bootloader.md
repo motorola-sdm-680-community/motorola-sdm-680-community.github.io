@@ -2,7 +2,7 @@
 title: 'Bootloader Relocking Guide for Motorola G32(devon), G42(hawao) and G52(rhode)'
 meta-title: 'Bootloader Relocking Guide for Motorola G32(devon), G42(hawao) and G52(rhode)'
 description: 'Bootloader Relocking Guide for Motorola devices with Snapdragon 680 chipset like G32(codename devon), G42(codename hawao) and G52(codename rhode)'
-data: '2023-12-13T23:07:19+05:30'
+date: '2023-12-13T23:07:19+05:30'
 image: "/images/image-placeholder.png"
 author: "Motorola Snapdragon 680 Community"
 categories: ["Bootloader", "Advanced Guide"]
@@ -79,3 +79,7 @@ It'll relock and do factory reset, After that you can reboot and enjoy.
 ## Results
 
 {{< gallery dir="images/relock-bootloader" zoomable="true" command="Fit" >}}
+
+## Original Post
+
+https://xdaforums.com/t/relock-bootloader-on-your-moto-g52-42-32.4644904/
